@@ -1,14 +1,10 @@
 # ProjectM / Portfolio
 
-## Statement
+## Designing digital products that enrich everyday thinking and experience
 
-インテグリティは、ビジネスにおける信頼の基盤であり、  
-同時に人間としての自己一致を支える羅針盤です。  
-この考えをデジタルの形で体験的に探求することをテーマにしています。
 
-Integrity is the foundation of trust in organizations,  
-and a compass for inner alignment as a human being.  
-This project explores these ideas as a lived, digital experience.
+日常の思考と体験を豊かにする
+デジタルプロダクトの設計と制作。
 
 ---
 
@@ -17,6 +13,13 @@ This project explores these ideas as a lived, digital experience.
 ### 🔹 My Integrity  
 人間のインテグリティを探る  
 ── 内面と行動の調和を見つめるアプリケーション
+
+インテグリティは、ビジネスにおける信頼の基盤であり、  
+同時に人間としての自己一致を支える羅針盤です。  
+
+Integrity is the foundation of trust in organizations,  
+and a compass for inner alignment as a human being.  
+
 
 このアプリケーションは、自己探究だけでなく、
 
