@@ -1,36 +1,69 @@
+# ProjectM / Portfolio
 
-<h1>My Integrity</h1> <p class="subtitle"> 〜人間のインテグリティを探るアプリ〜<br>
-  
-バイブコーディングによって制作した自己探究型アプリケーション。<br>
+## Statement
 
-インテグリティは、ビジネスにおける信頼構築の基盤であり、
-人間としての自己一致を支える羅針盤です。
+インテグリティは、ビジネスにおける信頼の基盤であり、  
+同時に人間としての自己一致を支える羅針盤です。  
+この考えをデジタルの形で体験的に探求することをテーマにしています。
 
-組織や個人の意思決定、価値観、行動の一貫性を見つめ直すための
-静かな問いの場をデジタルで表現しています。
+Integrity is the foundation of trust in organizations,  
+and a compass for inner alignment as a human being.  
+This project explores these ideas as a lived, digital experience.
 
-Integrity is the foundation of trust and a compass for inner alignment.
+---
 
+## Work
 
-個人の内省だけでなく、
+### 🔹 My Integrity  
+人間のインテグリティを探る  
+── 内面と行動の調和を見つめるアプリケーション
 
-・個人ワーク
-・チーム対話
-・社内ワークショップ
+このアプリケーションは、自己探究だけでなく、
 
-といった場面での活用を想定しています。
- 
+・個人の内省  
+・1on1 や対話の起点  
+・チーム／組織でのワークショップ  
 
-「譲れない核となる価値観」
+といった場面でも使える設計を意図しています。  
 
-を言語化し、共有し、再認識するためのインターフェースとして設計しました。
-自己探究や社内ワークショップであなたの「譲れない核となる価値観」を見つけ出してみてください。
+「譲れない核となる価値観」を言語化し、  
+自分自身や他者と意味ある対話につなげるためのインターフェースとして制作しました。
 
-An experimental reflective tool designed for personal exploration
-as well as workshops and collaborative dialogue.
+My Integrity is a reflective tool designed to explore the harmony between personal values and actions.  
+It can be used not only for individual introspection but also as a starting point for dialogue,  
+1-on-1 conversations, and team or organizational workshops.
 
-Demo
+Demo  
 https://mmamagot.github.io/MyIntegrity_01/
 
-Source
+Source  
 https://github.com/MMAMAGOT/MyIntegrity_01
+
+---
+
+## Intended Use / 活用例
+
+• 自己探究 / Personal reflection  
+• 価値観の可視化 / Exploring core values  
+• チーム対話 / Dialogue catalyst  
+• 社内ワークショップ / Workshops & facilitation
+
+---
+
+## Concept
+
+• シンプルさ / Simplicity  
+• 内面へのフォーカス / Inner exploration  
+• 視認性 / Visual clarity  
+• 静かな体験 / Calm interaction
+
+---
+
+## Presence
+
+Portfolio  
+https://mmamagot.github.io/ProjectM/
+
+GitHub  
+https://github.com/MMAMAGOT
+
